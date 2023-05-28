@@ -5,14 +5,14 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.0</version>
+        <version>2.7.12</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.example.gtmall</groupId>
-    <artifactId>gtmall-coupon</artifactId>
+    <artifactId>gtmall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gtmall-coupon</name>
-    <description>gtmall-coupon</description>
+    <name>gtmall</name>
+    <description>gtmall</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2021.0.7</spring-cloud.version>
