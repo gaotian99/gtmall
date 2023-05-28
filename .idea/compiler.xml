@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gtmall-product" />
         <module name="gtmall-coupon" />
-        <module name="gtmall" />
         <module name="gtmall-order" />
         <module name="gtmall-member" />
         <module name="gtmall-ware" />
@@ -17,7 +16,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="gtmall" options="-parameters" />
+      <module name="gtmall" options="" />
       <module name="gtmall-coupon" options="-parameters" />
       <module name="gtmall-member" options="-parameters" />
       <module name="gtmall-order" options="-parameters" />
